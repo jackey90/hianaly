@@ -1,4 +1,4 @@
-package org.jackey.hianaly.serv;
+package org.jackey.hianaly.generator;
 
 
 public interface IGenerator<E> {

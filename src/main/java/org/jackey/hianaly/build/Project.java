@@ -5,5 +5,8 @@ package org.jackey.hianaly.build;
  *
  */
 public interface Project {
+	public enum ProjectStatus{
+		Draft,Progressing,Done,Abort
+	}
 	
 }
