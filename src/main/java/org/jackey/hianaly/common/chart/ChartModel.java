@@ -1,4 +1,4 @@
-package org.jackey.hilog.common.chart;
+package org.jackey.hianaly.common.chart;
 
 import java.util.List;
 

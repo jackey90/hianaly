@@ -1,9 +1,9 @@
-package org.jackey.hilog.crmlistener.dao;
+package org.jackey.hianaly.crmlistener.dao;
 
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
-import org.jackey.hilog.crmlistener.model.Crmlistener;
-import org.jackey.hilog.crmlistener.model.CrmlistenerCriteria;
+import org.jackey.hianaly.crmlistener.model.Crmlistener;
+import org.jackey.hianaly.crmlistener.model.CrmlistenerCriteria;
 
 public interface CrmlistenerMapper {
     /**

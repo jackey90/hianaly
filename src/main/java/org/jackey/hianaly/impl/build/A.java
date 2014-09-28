@@ -1,4 +1,4 @@
-package org.jackey.hilog.impl.build;
+package org.jackey.hianaly.impl.build;
 
 public class A {
 

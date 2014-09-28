@@ -1,4 +1,4 @@
-package org.jackey.hilog.generator;
+package org.jackey.hianaly.generator;
 
 import java.util.ArrayList;
 import java.util.List;

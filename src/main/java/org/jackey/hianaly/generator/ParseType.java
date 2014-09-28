@@ -1,4 +1,4 @@
-package org.jackey.hilog.generator;
+package org.jackey.hianaly.generator;
 
 public enum ParseType {
 	PRINT (1,"PRINT",""),

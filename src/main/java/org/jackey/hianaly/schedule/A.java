@@ -1,4 +1,4 @@
-package org.jackey.hilog.schedule;
+package org.jackey.hianaly.schedule;
 
 public class A {
 

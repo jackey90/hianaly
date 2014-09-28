@@ -1,4 +1,4 @@
-package org.jackey.hilog.common.model;
+package org.jackey.hianaly.common.model;
 
 public class CommonDataModel {
 	

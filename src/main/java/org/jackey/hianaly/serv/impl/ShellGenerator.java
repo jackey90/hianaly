@@ -1,11 +1,11 @@
-package org.jackey.hilog.serv.impl;
+package org.jackey.hianaly.serv.impl;
 
 import java.util.List;
 
-import org.jackey.hilog.generator.LogParser;
-import org.jackey.hilog.generator.LogParser.Criterion;
-import org.jackey.hilog.generator.ParseType;
-import org.jackey.hilog.serv.IGenerator;
+import org.jackey.hianaly.generator.LogParser;
+import org.jackey.hianaly.generator.LogParser.Criterion;
+import org.jackey.hianaly.generator.ParseType;
+import org.jackey.hianaly.serv.IGenerator;
 
 public class ShellGenerator<E> implements IGenerator<E> {
 	public static final char SPACE = ' ';

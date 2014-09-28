@@ -1,4 +1,4 @@
-package org.jackey.hilog.analyse;
+package org.jackey.hianaly.analyse;
 
 public class A {
 

@@ -1,4 +1,4 @@
-package org.jackey.hilog.crmlistener.model;
+package org.jackey.hianaly.crmlistener.model;
 
 import java.util.Date;
 

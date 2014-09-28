@@ -1,4 +1,4 @@
-package org.jackey.hilog.dao;
+package org.jackey.hianaly.dao;
 
 import java.net.UnknownHostException;
 import java.util.Set;
