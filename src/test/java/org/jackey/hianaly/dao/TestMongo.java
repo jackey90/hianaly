@@ -17,7 +17,7 @@ public class TestMongo {
 		String myPassword = "root";  
 		MongoClient mongoClient;
 		try {
-			mongoClient = new MongoClient("10.88.48.121", 27017);
+			mongoClient = new MongoClient("10.88.48.187", 27017);
 			DB db = mongoClient.getDB("test");
 			System.out.println("Connect to database successfully");
 			boolean auth = db.authenticate(myUserName, myPassword.toCharArray());
